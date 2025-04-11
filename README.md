@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **cool side projects**
 - 🌱 I’m learning **TypeScript, Rust, and AI tools**
 - 🧠 I love solving problems and building things from scratch
-- 📫 Reach me at: mustafaserhatpeker@example.com
+- 📫 Reach me at: mustafaserhatpeker@gmail.com
 
 ---
 
