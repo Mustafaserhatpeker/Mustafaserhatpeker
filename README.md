@@ -14,9 +14,7 @@
 
 ## 🔥 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mustafaserhatpeker&theme=onestar&margin-w=10&no-frame=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mustafaserhatpeker&theme=tokyonight&hide_border=true" />
