@@ -20,9 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mustafaserhatpeker&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mustafaserhatpeker&theme=tokyo-night&hide_border=true" />
-</p>
+
 
 ---
 
