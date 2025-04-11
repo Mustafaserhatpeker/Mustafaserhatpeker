@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Serhat Peker</h1>
+<h1 align="center">Hi 👋, I'm Mustafa Peker</h1>
 <h3 align="center">💻 Passionate about coding, AI, and turning coffee into code ☕</h3>
 
 ---
