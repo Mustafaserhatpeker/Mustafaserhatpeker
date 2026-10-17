@@ -26,9 +26,9 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mustafaserhatpeker&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Mustafaserhatpeker&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafaserhatpeker&bg_color=1a1b27&color=00ffe0&line=00ffee&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub Contribution Graph" />
 </p>
